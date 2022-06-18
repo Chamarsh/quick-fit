@@ -25,6 +25,6 @@ npm install --legacy-peer-deps
 
 ### Libraries
 
-  -React
-  -Material UI
+* React
+* Material UI
   
