@@ -21,3 +21,10 @@ If that doesn't work try running
 ```bash
 npm install --legacy-peer-deps
 ```
+
+
+### Libraries
+
+  -React
+  -Material UI
+  
